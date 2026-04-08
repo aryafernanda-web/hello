@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "areaName": "Botoran, Tulungagung",
+    "defaultCenter": {
+      "lat": -8.0652,
+      "lng": 111.9022
+    },
+    "source": "Google My Maps -> JSON lokal"
+  },
+  "markers": [
+    {
+      "id": "dp-botoran-1",
+      "name": "DP Botoran 1",
+      "position": { "lat": -8.06465, "lng": 111.90315 }
+    },
+    {
+      "id": "dp-botoran-2",
+      "name": "DP Botoran 2",
+      "position": { "lat": -8.06585, "lng": 111.90155 }
+    },
+    {
+      "id": "dp-botoran-3",
+      "name": "DP Botoran 3",
+      "position": { "lat": -8.06395, "lng": 111.90425 }
+    },
+    {
+      "id": "dp-botoran-4",
+      "name": "DP Botoran 4",
+      "position": { "lat": -8.06605, "lng": 111.90355 }
+    }
+  ],
+  "polylines": [
+    {
+      "id": "kabel-utama-1",
+      "name": "Jalur Kabel Utama",
+      "coordinates": [
+        { "lat": -8.0663, "lng": 111.901 },
+        { "lat": -8.0656, "lng": 111.9017 },
+        { "lat": -8.0651, "lng": 111.9023 },
+        { "lat": -8.0646, "lng": 111.9031 },
+        { "lat": -8.0641, "lng": 111.9039 },
+        { "lat": -8.0636, "lng": 111.9046 }
+      ]
+    },
+    {
+      "id": "kabel-cabang-1",
+      "name": "Jalur Kabel Cabang",
+      "coordinates": [
+        { "lat": -8.0651, "lng": 111.9023 },
+        { "lat": -8.0656, "lng": 111.903 },
+        { "lat": -8.0661, "lng": 111.9036 }
+      ]
+    }
+  ]
+}
